@@ -1,0 +1,8 @@
+{
+  "name": "Better Tenant - Agent Hub",
+  "description": "A comprehensive professional portfolio and performance dashboard for rental agents, featuring public credibility tools and private analytical insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
